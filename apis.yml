@@ -1,0 +1,48 @@
+name: Zivtech
+description: |-
+  Zivtech is a Philadelphia-based digital design and development agency founded
+  in 2008, specializing in open-source web platforms (Drupal and WordPress) for
+  mission-driven organizations including universities, hospitals, museums, and
+  foundations. Founder and CEO Alex Urevick-Ackelsberg leads a small team
+  (~10 staff) serving clients such as Children's Hospital of Philadelphia,
+  Rutgers University, Temple University, Johns Hopkins Bloomberg School of
+  Public Health, the Institute for Advanced Study, the Science History Institute,
+  and the John Templeton Foundation. Their tagline: "We design and build
+  technology that helps progressive organizations meet ambitious goals."
+
+  Zivtech is a services firm — not an API provider. They build custom Drupal
+  and WordPress sites, mobile applications, and digital experiences for clients,
+  but they do not publish or operate any public APIs, SDKs, developer portals,
+  pricing, status pages, or OpenAPI artifacts of their own. Their value lies in
+  professional services and long-term client partnerships rather than a product
+  or platform with a programmable surface area. For API Evangelist purposes
+  this repo serves only as a registry placeholder confirming the agency's
+  existence, scope, and status.
+
+image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/api-evangelist-network/zivtech.png
+url: https://zivtech.com
+tags:
+- Agency
+- Drupal
+- WordPress
+- Web Development
+- Philadelphia
+- Services
+created: 2026-05-23
+modified: 2026-05-23
+specificationVersion: "0.16"
+apis: []
+common:
+- type: Website
+  url: https://zivtech.com
+- type: Blog
+  url: https://zivtech.com/blog
+- type: About
+  url: https://zivtech.com/about
+- type: Contact
+  url: https://zivtech.com/contact
+- type: Services
+  url: https://zivtech.com/services
+maintainers:
+- FN: API Evangelist
+  email: info@apievangelist.com
