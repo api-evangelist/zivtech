@@ -19,6 +19,17 @@ description: |-
   this repo serves only as a registry placeholder confirming the agency's
   existence, scope, and status.
 
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/api-evangelist-network/zivtech.png
 url: https://zivtech.com
 tags:
