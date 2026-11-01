@@ -64,30 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Zivtech is a Philadelphia-based digital design and development agency founded in 2008, specializing in open-source web platforms — primarily Drupal and WordPress — for mission-driven organizations.
+Zivtech is a Philadelphia-based digital design and development agency founded in 2008, specializing in open-source web platforms (Drupal and WordPress) for mission-driven organizations including universities, hospitals, museums, and foundations. Founder and CEO Alex Urevick-Ackelsberg leads a small team (~10 staff) serving clients such as Children's Hospital of Philadelphia, Rutgers University, Temple University, Johns Hopkins Bloomberg School of Public Health, the Institute for Advanced Study, the Science History Institute, and the John Templeton Foundation. Their tagline: "We design and build technology that helps progressive organizations meet ambitious goals." Zivtech is a services firm — not an API provider. They build custom Drupal and WordPress sites, mobile applications, and digital experiences for clients, but they do not publish or operate any public APIs, SDKs, developer portals, pricing, status pages, or OpenAPI artifacts of their own. Their value lies in professional services and long-term client partnerships rather than a product or platform with a programmable surface area. For API Evangelist purposes this repo serves only as a registry placeholder confirming the agency's existence, scope, and status.
 
-- **Website:** https://zivtech.com
-- **Headquarters:** 1315 Walnut Street, Suite 800, Philadelphia, PA 19107
-- **Founder / CEO:** Alex Urevick-Ackelsberg
-- **Team:** ~10 staff (per public about page)
-- **Status:** Active as of 2026-05; project work shown through 2024–2025
+**Areas:** Agency · Drupal · WordPress · Web Development · Philadelphia · Services
 
-## Tagline
+## Zivtech on APIs.io
 
-> "We design and build technology that helps progressive organizations meet ambitious goals"
+Everything profiled for Zivtech is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/zivtech/](https://apis.io/providers/zivtech/)** — or go straight to one of the APIs or properties below.
 
-## Notable clients
+### Published properties
 
-Children's Hospital of Philadelphia, Rutgers University, Temple University, Johns Hopkins Bloomberg School of Public Health, Institute for Advanced Study, Science History Institute, John Templeton Foundation.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-**None.** Zivtech is a professional-services firm that builds Drupal and WordPress sites for clients. They do not publish or operate any public APIs, SDKs, developer portal, OpenAPI specs, pricing pages, status page, or changelog of their own. This repo exists in the API Evangelist network as a registry placeholder confirming the agency's existence and scope within the Drupal/web-agency landscape.
+Authentication, trust centre, and vulnerability disclosure.
 
-## Artifacts
+- [Zivtech Domain Security](https://apis.io/security/zivtech/zivtech-domain-security/)
 
-This repo intentionally contains no `openapi/`, `capabilities/`, `json-schema/`, or other API artifacts — there is no underlying API surface to model.
+## Where to find this API
 
-## Network
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-This entry is part of the [API Evangelist network](https://github.com/api-evangelist).
+- [Website](https://zivtech.com)
+- [Blog](https://zivtech.com/blog)
+
+## API Evangelist rating
+
+**Kin Score 4.2** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/zivtech/](https://apis.io/providers/zivtech/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Zivtech: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/zivtech/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
